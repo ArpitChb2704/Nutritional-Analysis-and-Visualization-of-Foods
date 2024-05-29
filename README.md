@@ -2,7 +2,7 @@
 
 ## Guideline/Note
 
-The Data used for this Analysis May not be correct , as I have taken a Dataset from Internet and I am not taling any Liscence or Resonsibility If Anyone follow 
+The Data used for this Analysis May not be correct , as I have taken a Dataset from Internet and I am not taking any Licence or Responsibility If Anyone follow 
 the results of this . For Clinical and Bettter Overview and Recommendations Consult your Nutritionist.
 
 ## Project Overview
